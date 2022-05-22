@@ -1,0 +1,28 @@
+button{
+    margin: 0;
+    padding: 0;
+}
+
+.menu{
+    padding: 0;
+    width: 100px;
+    height: 50px;
+    color: red;
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+.word{
+    margin-bottom: 60px;
+    font-size: 40px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.second{
+    margin-top: 60px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
